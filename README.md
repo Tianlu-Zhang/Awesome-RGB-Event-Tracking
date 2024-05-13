@@ -19,7 +19,7 @@ Links for a quick jump: 🔥[Benchmarks](#data)🔥 🔥[CVPR 2024](#cvpr24)🔥
 
 :blue_square: `Event` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[EventVOT]**Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline**[[Paper](https://arxiv.org/abs/2309.14611)][[Code](https://github.com/Event-AHU/EventVOT_Benchmark)]
 
-:green_square: `RGB-E` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[FELT]**ong-term Frame-Event Visual Tracking: Benchmark
+:green_square: `RGB-E` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[FELT]**Long-term Frame-Event Visual Tracking: Benchmark
 Dataset and Baseline**[[Paper](https://arxiv.org/pdf/2403.05839)]
 [[Code](https://github.com/Event-AHU/FELT_SOT_Benchmark)]
 
@@ -66,7 +66,7 @@ Dataset and Baseline**[[Paper](https://arxiv.org/pdf/2403.05839)]
 :orange_square: `RGB-X`&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[SeqTrackv2] **Unified Sequence-to-Sequence Learning for Single- and Multi-Modal Visual Object Tracking**[[Paper](https://arxiv.org/abs/2304.14394)]
   [[Code](https://github.com/chenxin-dlut/SeqTrackv2)]
   
-:green_square: `RGB-E` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[FELT]**ong-term Frame-Event Visual Tracking: Benchmark
+:green_square: `RGB-E` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[FELT]**Long-term Frame-Event Visual Tracking: Benchmark
 Dataset and Baseline**[[Paper](https://arxiv.org/pdf/2403.05839)]
 [[Code](https://github.com/Event-AHU/FELT_SOT_Benchmark)]
 
