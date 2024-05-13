@@ -17,13 +17,13 @@ Links for a quick jump: 🔥[Benchmarks](#data)🔥 🔥[CVPR 2024](#cvpr24)🔥
 
 ### <span id="data">Benchmarks</span>
 
-:blue_square: `Event` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[EventVOT]**Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline**[[Paper](https://arxiv.org/abs/2309.14611)][[Code](https://github.com/Event-AHU/EventVOT_Benchmark)]
+:blue_square: `Event` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[EventVOT]**Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline****&nbsp;(CVPR24)[[Paper](https://arxiv.org/abs/2309.14611)][[Code](https://github.com/Event-AHU/EventVOT_Benchmark)]
 
 :green_square: `RGB-E` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[FELT]**Long-term Frame-Event Visual Tracking: Benchmark
-Dataset and Baseline**[[Paper](https://arxiv.org/pdf/2403.05839)]
+Dataset and Baseline**&nbsp;(Arxiv24)[[Paper](https://arxiv.org/pdf/2403.05839)]
 [[Code](https://github.com/Event-AHU/FELT_SOT_Benchmark)]
 
-:green_square: `RGB-E` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[CRSOT]**Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras**[[Paper](https://arxiv.org/abs/2401.02826)]
+:green_square: `RGB-E` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[CRSOT]**Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras**&nbsp;(Arxiv24)[[Paper](https://arxiv.org/abs/2401.02826)]
 [[Code](https://github.com/Event-AHU/Cross_Resolution_SOT)]
 
 :green_square: `RGB-E` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[VisEvent]**Reliable Object Tracking via Collaboration of Frame and Event Flows**&nbsp;(TCYB23)[[Paper](https://ieeexplore.ieee.org/abstract/document/10284004)][[Code](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark)]
