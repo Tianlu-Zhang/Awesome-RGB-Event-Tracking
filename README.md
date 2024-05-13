@@ -56,7 +56,7 @@ Dataset and Baseline**&nbsp;(Arxiv24)[[Paper](https://arxiv.org/pdf/2403.05839)]
 [[Code](https://github.com/Jee-King/AFNet)]
 
 ### <span id="j23">Journals 2023</span>
-:blue_square: `Event` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[STNet]**Distractor-aware Event-based Tracking**&nbsp;(TIP23)[[Paper](https://ieeexplore.ieee.org/document/10299598)]
+:blue_square: `Event` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[DANet]**Distractor-aware Event-based Tracking**&nbsp;(TIP23)[[Paper](https://ieeexplore.ieee.org/document/10299598)]
 
 :green_square: `RGB-E` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[VisEvent]**Reliable Object Tracking via Collaboration of Frame and Event Flows**&nbsp;(TCYB23)[[Paper](https://ieeexplore.ieee.org/abstract/document/10284004)][[Code](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark)]
 
