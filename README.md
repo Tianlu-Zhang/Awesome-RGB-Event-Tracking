@@ -17,7 +17,7 @@ Links for a quick jump: 🔥[Benchmarks](#data)🔥 🔥[CVPR 2024](#cvpr24)🔥
 
 ### <span id="data">Benchmarks</span>
 
-:blue_square: `Event` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[EventVOT]**Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline****&nbsp;(CVPR24)[[Paper](https://arxiv.org/abs/2309.14611)][[Code](https://github.com/Event-AHU/EventVOT_Benchmark)]
+:blue_square: `Event` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[EventVOT]**Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline**&nbsp;(CVPR24)[[Paper](https://arxiv.org/abs/2309.14611)][[Code](https://github.com/Event-AHU/EventVOT_Benchmark)]
 
 :green_square: `RGB-E` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[FELT]**Long-term Frame-Event Visual Tracking: Benchmark
 Dataset and Baseline**&nbsp;(Arxiv24)[[Paper](https://arxiv.org/pdf/2403.05839)]
