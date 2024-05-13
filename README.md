@@ -43,6 +43,13 @@ Links for a quick jump: [ArXiv](#arxiv), 🔥[CVPR 2024](#cvpr24)🔥, [ICCV 202
 
 ### <span id="j23">Journals 2023</span>
 
+### <span id="ew">Early works</span>
+
+:blue_square: `Event` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[STTrack]**Spiking Transformers for Event-based Single Object Tracking**(CVPR22)[[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.html)][[Code](https://github.com/JeeKing/CVPR2022_STNet)]
+
+:green_square: `RGB-E` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[FENet]**Object Tracking by Jointly Exploiting Frame and Event Domain**(ICCV21)[[Paper](https://arxiv.org/abs/2109.09052)]
+[[Code](https://github.com/Jee-King/ICCV2021_Event_Frame_Tracking)]
+
 
 
 
