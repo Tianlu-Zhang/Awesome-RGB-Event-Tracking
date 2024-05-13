@@ -2,8 +2,6 @@
 
 Recent Advances in RGB-Event (RGB-E) Tracking.
 
->Deep Learning for Video Object Segmentation: A Review / [paper](https://link.springer.com/content/pdf/10.1007/s10462-022-10176-7.pdf) / [project page](https://github.com/gaomingqi/VOS-Review) 
-
 :teddy_bear: We indicate different types with coloured squares:
 
 :blue_square: `Event`: Only Event data
@@ -23,8 +21,7 @@ Links for a quick jump: [ArXiv](#arxiv), 🔥[CVPR 2024](#cvpr24)🔥, [ICCV 202
   [[Code](https://github.com/chenxin-dlut/SeqTrackv2)]
   
 ### <span id="cvpr24">CVPR 2024</span>
-:orange_square: `RGB-X` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[SDSTrack]**Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking**[[Paper](https://arxiv.org/abs/2403.16002)]
-[[Code](https://github.com/hoqolo/SDSTrack)]
+:orange_square: `RGB-X` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[SDSTrack]**Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking**[[Paper](https://arxiv.org/abs/2403.16002)][[Code](https://github.com/hoqolo/SDSTrack)]
 
 :orange_square: `RGB-X` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[OneTracker]**Unifying Visual Object Tracking with Foundation Models and Efficient Tuning**[[Paper](https://arxiv.org/abs/2403.09634)]
 
