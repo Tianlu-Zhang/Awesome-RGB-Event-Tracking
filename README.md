@@ -42,12 +42,21 @@ Links for a quick jump: [ArXiv](#arxiv), 🔥[CVPR 2024](#cvpr24)🔥, [ICCV 202
 [[Code](https://github.com/Jee-King/AFNet)]
 
 ### <span id="j23">Journals 2023</span>
+:blue_square: `Event` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[STNet]**Distractor-aware Event-based Tracking**&nbsp;(TIP23)[[Paper](https://ieeexplore.ieee.org/document/10299598)]
+
+:green_square: `RGB-E` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[UEPM]**A Universal Event-Based Plug-In Module for Visual Object Tracking in Degraded Conditions**&nbsp;(IJCV23)[[Paper](https://link.springer.com/article/10.1007/s11263-023-01959-8)]
 
 ### <span id="ew">Early works</span>
 
-:blue_square: `Event` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[STTrack]**Spiking Transformers for Event-based Single Object Tracking**(CVPR22)[[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.html)][[Code](https://github.com/JeeKing/CVPR2022_STNet)]
+:blue_square: `Event` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[MonTrack]**Learning Graph-embedded Key-event Back-tracing
+for Object Tracking in Event Clouds**&nbsp;(NIPS22)[[Paper](https://openreview.net/pdf?id=hTxYJAKY85)][[Code](https://github.com/ZHU-Zhiyu/Event-tracking)]
 
-:green_square: `RGB-E` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[FENet]**Object Tracking by Jointly Exploiting Frame and Event Domain**(ICCV21)[[Paper](https://arxiv.org/abs/2109.09052)]
+:blue_square: `Event` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[STNet]**Spiking Transformers for Event-based Single Object Tracking**&nbsp;(CVPR22)[[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.html)][[Code](https://github.com/JeeKing/CVPR2022_STNet)]
+
+:green_square: `RGB-E` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[CEUTrack]**Revisiting Color-Event based Tracking: A Unified Network, Dataset, and Metric**&nbsp;(Arxiv22)[[Paper](https://arxiv.org/abs/2211.11010)]
+[[Code](https://github.com/Jee-King/ICCV2021_Event_Frame_Tracking)]
+
+:green_square: `RGB-E` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[FENet]**Object Tracking by Jointly Exploiting Frame and Event Domain**&nbsp;(ICCV21)[[Paper](https://arxiv.org/abs/2109.09052)]
 [[Code](https://github.com/Jee-King/ICCV2021_Event_Frame_Tracking)]
 
 
