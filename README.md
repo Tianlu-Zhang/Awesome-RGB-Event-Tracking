@@ -2,7 +2,7 @@
 
 Recent Advances in RGB-Event (RGB-E) Tracking.
 
-:teddy_bear: We indicate different types with coloured squares:
+:teddy_bear: We indicate different types with colored squares:
 
 :blue_square: `Event`: Only Event data
 
@@ -63,6 +63,9 @@ Dataset and Baseline**&nbsp;(Arxiv24)[[Paper](https://arxiv.org/pdf/2403.05839)]
 :green_square: `RGB-E` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[UEPM]**A Universal Event-Based Plug-In Module for Visual Object Tracking in Degraded Conditions**&nbsp;(IJCV23)[[Paper](https://link.springer.com/article/10.1007/s11263-023-01959-8)]
 
 ### <span id="arxiv">ArXiv</span>
+:green_square: `RGB-E` &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Mamba-FETrack]**Frame-Event Tracking via State Space Model**[[Paper](https://arxiv.org/abs/2404.18174)]
+[[Code](https://github.com/Event-AHU/Mamba_FETrack)]
+
 :orange_square: `RGB-X`&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[SeqTrackv2] **Unified Sequence-to-Sequence Learning for Single- and Multi-Modal Visual Object Tracking**[[Paper](https://arxiv.org/abs/2304.14394)]
   [[Code](https://github.com/chenxin-dlut/SeqTrackv2)]
   
